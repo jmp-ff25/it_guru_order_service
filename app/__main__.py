@@ -9,7 +9,7 @@ from app.core.logger import logger
 app = FastAPI(
     title=settings.app_title,
     openapi_url="/api/openapi.json",
-    docs_url="/",
+    docs_url="/docs",
     redoc_url="/redoc"
 )
 

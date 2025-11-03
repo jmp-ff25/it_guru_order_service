@@ -9,7 +9,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)](https://www.postgresql.org/)
 [![Docker](https://img.shields.io/badge/Docker-Compose-blue?logo=docker)](https://www.docker.com/)
 
-*Микросервис для управления заказами в системе IT Guru. Построен на FastAPI с асинхронной архитектурой и PostgreSQL.*
+*Микросервис для управления заказами. Построен на FastAPI с асинхронной архитектурой и PostgreSQL.*
 
 </div>
 
